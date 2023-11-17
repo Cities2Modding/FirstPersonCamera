@@ -1,2 +1,40 @@
-# FIrstPersonCamera
-First Person Camera mod for Cities Skylines 2
+# FirstPersonCamera for Cities Skylines 2
+
+Welcome to the official repository of **FirstPersonCamera**, a mod for Cities Skylines 2 that enhances your gameplay experience by providing a smoother and more realistic first-person camera controller.
+
+## Features
+- **First-Person Camera Mode**: Immerse yourself in your city like never before with a first-person view.
+- **Easy Toggle**: Activate or deactivate the camera mode with a simple shortcut - `CTRL+F`.
+- **Enhanced Realism**: Experience a more realistic view compared to the standard photo mode camera in the vanilla game.
+
+## Installation
+
+### Prerequisites
+- Make sure you have **Cities Skylines 2** installed.
+- This mod requires **BepInEx v5**. Install it before proceeding.
+
+### Download
+- Download the mod from the [Releases](https://github.com/Cities2Modding/FirstPersonCamera/releases) section on this GitHub page or from [Thunderstore.io](https://thunderstore.io).
+
+### Installation Steps
+1. Download the `FirstPersonCamera.dll` file from the official sources.
+2. Place the file into your `Cities Skylines 2/BepInEx/plugins` folder.
+3. Run the game, and use `CTRL+F` to toggle the first-person camera mode.
+
+## Usage
+After installation, simply press `CTRL+F` during gameplay to switch to the first-person camera mode. Press again to revert to the default camera.
+
+## Compatibility
+This mod is designed to be compatible with most other Cities Skylines 2 mods. However, if you encounter any issues, please report them in the [Issues](https://github.com/Cities2Modding/FirstPersonCamera/issues) section.
+
+## Contributing
+Feel free to fork the repository and submit pull requests. Your contributions to improving the FirstPersonCamera mod are always welcome!
+
+## License
+This project is licensed under the GNU General Public License v2 (GPLv2). See the [LICENSE](LICENSE) file for details.
+
+## Support
+For support, questions, or feedback, please open an issue in the [Issues](https://github.com/Cities2Modding/FirstPersonCamera/issues) section.
+
+## Credits
+A special thanks to the Cities Skylines modding community and all contributors to this project.
