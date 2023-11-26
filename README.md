@@ -5,6 +5,8 @@ Welcome to the official repository of **FirstPersonCamera**, a mod for Cities Sk
 ## Features
 - **First-Person Camera Mode**: Immerse yourself in your city like never before with a first-person view.
 - **Easy Toggle**: Activate or deactivate the camera mode with a simple shortcut - `CTRL+F`.
+- **Sprinting**: Use `LEFT SHIFT` to increase movement speed.
+- **Follow Mode**: Hold the `right mouse button` whilst in first person, you can now see highlighted entities when you hover them. Release the right mouse button to then follow that entity. Moving with the `WASD` keys will go into manual mode.
 - **Enhanced Realism**: Experience a more realistic view compared to the standard photo mode camera in the vanilla game.
 
 ## Installation
@@ -32,6 +34,9 @@ Feel free to fork the repository and submit pull requests. Your contributions to
 
 ## License
 This project is licensed under the GNU General Public License v2 (GPLv2). See the [LICENSE](LICENSE) file for details.
+
+## Notes
+The follow mode is experimental and at the moment will not move perfectly in sync with fast moving vehicles. This is something I will look to resolve in the future.
 
 ## Support
 For support, questions, or feedback, please open an issue in the [Issues](https://github.com/Cities2Modding/FirstPersonCamera/issues) section.

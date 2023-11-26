@@ -13,7 +13,7 @@ namespace FirstPersonCamera.Patches
             if ( !mode.IsGame( ) || mode.IsEditor( ) )
                 return;
 
-            __instance.World.GetOrCreateSystem<FirstPersonCameraSystem>( );
+            __instance.World.GetOrCreateSystemManaged<FirstPersonCameraSystem>( );
         }
     }
 }
